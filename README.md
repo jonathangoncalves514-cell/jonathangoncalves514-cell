@@ -9,6 +9,7 @@
 - Em constante evolução no mundo da tecnologia.
 
 ## Contato
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ✉️jonathangoncalves514@gmail.com
 
 ## Tecnologias 
