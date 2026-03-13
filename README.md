@@ -8,4 +8,6 @@
 - Estudando programação e iniciando minha jornada como desenvolvedor.
 - Em constante evolução no mundo da tecnologia.
 
+## Contato
+✉️jonathangoncalves514@gmail.com
 
