@@ -2,6 +2,6 @@
 -💻Estudante de programação
 -🐍Aprendendo python e lógica da programação
 ##contato
--#EA4335jonathangoncalves514@gmailcom
+-jonathangoncalves514@gmailcom
 #3776AB
 
